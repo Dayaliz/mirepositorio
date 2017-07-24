@@ -20,7 +20,4 @@ session_start();
      }
      echo "</table>";
         
-     ?>
-    <a href="agregararticulo.php">Agregar Articulo</a>
-    <a href="cerraarsesion.php">Cerrar Sesion</a>
-</body>
+     aqui se cambio>
